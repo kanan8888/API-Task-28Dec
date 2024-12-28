@@ -7,27 +7,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CURD.DAL.Configurations
+namespace CURD.DAL.Configurations;
+public class TagConfiguration : IEntityTypeConfiguration<Tag>
 {
-    public class TagConfiguration : IEntityTypeConfiguration<Tag>
+    public void Configure(EntityTypeBuilder<Tag> builder)
     {
-        public void Configure(EntityTypeBuilder<Tag> builder)
-        {
-            
-            builder.HasKey(t => t.Id);
+        
+        builder.HasKey(t => t.Id);
 
-            builder.Property(x => x.Id)
-                .ValueGeneratedOnAdd();
+        builder.Property(x => x.Id)
+            .ValueGeneratedOnAdd();
 
-            builder.Property(t => t.TagName)
-                .IsRequired()  
-                .HasMaxLength(50); 
+        builder.Property(t => t.TagName)
+            .IsRequired()  
+            .HasMaxLength(50); 
 
-            builder.HasMany(t => t.Products)  
-                .WithOne()  
-                .HasForeignKey(tp => tp.TagId)  
-                .OnDelete(DeleteBehavior.Cascade); 
+        builder.HasMany(t => t.Products)  
+            .WithOne()  
+            .HasForeignKey(tp => tp.TagId)  
+            .OnDelete(DeleteBehavior.Cascade); 
 
-        }
     }
 }

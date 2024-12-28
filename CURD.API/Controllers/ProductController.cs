@@ -1,31 +1,42 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CURD.API.Controllers
+namespace CURD.API.Controllers;
+
+[Route("api/[controller]")]
+[ApiController]
+public class ProductController : ControllerBase
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class ProductController : ControllerBase
-    {
-        [HttpPost]
-        public IActionResult CreateProduct()
-        {
+    //[HttpPost]
+    //public IActionResult CreateProduct()
+    //{
 
-        }
+    //}
 
-        [HttpGet]
-        public IActionResult GetAllProduct() 
-        {
-        
-        }
+    //[HttpGet]
+    //public IActionResult GetAllProduct() 
+    //{
+    
+    //}
 
 
-        [HttpGet]
-        public IActionResult GetProductById()
-        {
+    //[HttpGet("{id}")]
+    //public IActionResult GetProductById(int id)
+    //{
 
-        }
+    //}
+
+    //[HttpPut("{id}")]
+    //public IActionResult UpdateProduct(int id)
+    //{
+
+    //}
+
+    //[HttpDelete("{id}")]
+    //public IActionResult DeleteProduct(int id)
+    //{
+
+    //}
 
 
-    }
 }

@@ -7,31 +7,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CURD.DAL.Configurations
+namespace CURD.DAL.Configurations;
+public class CategoryConfiguration : IEntityTypeConfiguration<Category>
 {
-    public class CategoryConfiguration : IEntityTypeConfiguration<Category>
+    public void Configure(EntityTypeBuilder<Category> builder)
     {
-        public void Configure(EntityTypeBuilder<Category> builder)
-        {
-        
-            builder.HasKey(x => x.Id);
+    
+        builder.HasKey(x => x.Id);
 
-            builder.Property(x => x.Id)
-                .ValueGeneratedOnAdd();
+        builder.Property(x => x.Id)
+            .ValueGeneratedOnAdd();
 
-            builder.Property(x => x.CategoryName)
-                   .IsRequired()
-                   .HasMaxLength(20);
+        builder.Property(x => x.CategoryName)
+               .IsRequired()
+               .HasMaxLength(20);
 
-            builder.HasMany(x => x.Products)
-                   .WithOne()
-                   .HasForeignKey("CategoryId")
-                   .OnDelete(DeleteBehavior.Cascade);
+        builder.HasMany(x => x.Products)
+               .WithOne()
+               .HasForeignKey("CategoryId")
+               .OnDelete(DeleteBehavior.Cascade);
 
-            builder.ToTable("Categories");
-        }
-
-
-
+        builder.ToTable("Categories");
     }
+
+
+
 }

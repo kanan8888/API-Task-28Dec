@@ -5,13 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CURD.Business.Helper.Mapper
+namespace CURD.Business.Helper.Mapper;
+public class AutoMapper : Profile
 {
-    public class AutoMapper : Profile
+    protected AutoMapper()
     {
-        protected AutoMapper()
-        {
-            
-        }
+        
     }
 }

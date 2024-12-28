@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CURD.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35af04fb968e4a926460c2931f9732f22dcd1a19")]
 [assembly: System.Reflection.AssemblyProductAttribute("CURD.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CURD.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

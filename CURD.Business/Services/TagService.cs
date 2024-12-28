@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CURD.Business;
-public class BusinesServiceRegistration
+namespace CURD.Business.Services;
+public class TagService
 {
-
 }
