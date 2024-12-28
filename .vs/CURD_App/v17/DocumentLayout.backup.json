@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\context\\curd_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\context\\curd_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\configurations\\tagproductconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\tagproductconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CURD.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\appsettings.json*",
+              "RelativeToolTip": "CURD.API\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T08:34:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241228083418_addBirIkiTable.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs",
+              "RelativeToolTip": "CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:34:18.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TagProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\TagProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\TagProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\TagProductConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\TagProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:30:49.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Tag.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Tag.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Tag.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:26:56.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TagProduct.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\TagProduct.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\TagProduct.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\TagProduct.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\TagProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:25:29.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:20:35.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Product.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Product.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Product.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:20:21.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:11:52.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\TagConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\TagConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\TagConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\TagConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:11:35.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:11:12.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:02:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Program.cs",
+              "RelativeDocumentMoniker": "CURD.API\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Program.cs",
+              "RelativeToolTip": "CURD.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:59:20.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CURD_DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Context\\CURD_DbContext.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Context\\CURD_DbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Context\\CURD_DbContext.cs",
+              "RelativeToolTip": "CURD.DAL\\Context\\CURD_DbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:58:18.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

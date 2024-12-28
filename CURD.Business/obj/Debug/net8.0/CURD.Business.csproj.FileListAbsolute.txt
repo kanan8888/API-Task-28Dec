@@ -1,0 +1,17 @@
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\bin\Debug\net8.0\CURD.Business.deps.json
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\bin\Debug\net8.0\CURD.Business.dll
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\bin\Debug\net8.0\CURD.Business.pdb
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\bin\Debug\net8.0\CURD.Core.dll
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\bin\Debug\net8.0\CURD.DAL.dll
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\bin\Debug\net8.0\CURD.DAL.pdb
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\bin\Debug\net8.0\CURD.Core.pdb
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\CURD.Business.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\CURD.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\CURD.Business.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\CURD.Business.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\CURD.Business.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\CURD.Bus.E3ED8B3D.Up2Date
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\CURD.Business.dll
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\refint\CURD.Business.dll
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\CURD.Business.pdb
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Business\obj\Debug\net8.0\ref\CURD.Business.dll

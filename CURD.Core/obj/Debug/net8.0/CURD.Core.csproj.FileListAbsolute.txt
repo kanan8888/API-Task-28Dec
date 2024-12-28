@@ -1,0 +1,11 @@
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\bin\Debug\net8.0\CURD.Core.deps.json
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\bin\Debug\net8.0\CURD.Core.dll
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\bin\Debug\net8.0\CURD.Core.pdb
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\obj\Debug\net8.0\CURD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\obj\Debug\net8.0\CURD.Core.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\obj\Debug\net8.0\CURD.Core.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\obj\Debug\net8.0\CURD.Core.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\obj\Debug\net8.0\CURD.Core.dll
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\obj\Debug\net8.0\refint\CURD.Core.dll
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\obj\Debug\net8.0\CURD.Core.pdb
+C:\Users\I Novbe\source\repos\CURD_App\CURD.Core\obj\Debug\net8.0\ref\CURD.Core.dll
