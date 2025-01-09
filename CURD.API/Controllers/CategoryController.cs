@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
+using CURD.Business.Services.Interfaces;
 using CURD.DAL.Context;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,14 +9,14 @@ namespace CURD.API.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
+//[Authorize]
 public class CategoryController : ControllerBase
 {
-
-    CURD_DbContext _db;
+    ICategoryService _service;
     IMapper _mapper;
-    public CategoryController(CURD_DbContext db, IMapper mapper)
+    public CategoryController(ICategoryService service, IMapper mapper)
     {
-        _db = db;
+        _service = service;
         _mapper = mapper;
     }
 

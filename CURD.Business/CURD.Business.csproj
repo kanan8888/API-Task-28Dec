@@ -16,4 +16,10 @@
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Helper\Exceptions\CategoryExceptions\" />
+    <Folder Include="Helper\Exceptions\TagExceptions\" />
+    <Folder Include="Helper\Exceptions\ProductExceptions\" />
+  </ItemGroup>
+
 </Project>

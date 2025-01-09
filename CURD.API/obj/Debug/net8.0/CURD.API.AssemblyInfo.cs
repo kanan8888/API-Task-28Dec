@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CURD.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b84c9664161d17bbd09c8bd330021cf52f85929")]
 [assembly: System.Reflection.AssemblyProductAttribute("CURD.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CURD.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,3 +15,21 @@ C:\Users\I Novbe\source\repos\CURD_App\CURD.DAL\obj\Debug\net8.0\refint\CURD.DAL
 C:\Users\I Novbe\source\repos\CURD_App\CURD.DAL\obj\Debug\net8.0\CURD.DAL.pdb
 C:\Users\I Novbe\source\repos\CURD_App\CURD.DAL\obj\Debug\net8.0\CURD.DAL.genruntimeconfig.cache
 C:\Users\I Novbe\source\repos\CURD_App\CURD.DAL\obj\Debug\net8.0\ref\CURD.DAL.dll
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\bin\Debug\net8.0\CURD.DAL.deps.json
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\bin\Debug\net8.0\CURD.DAL.runtimeconfig.json
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\bin\Debug\net8.0\CURD.DAL.dll
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\bin\Debug\net8.0\CURD.DAL.pdb
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\bin\Debug\net8.0\CURD.Core.dll
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\bin\Debug\net8.0\CURD.Core.pdb
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.csproj.AssemblyReference.cache
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.AssemblyInfoInputs.cache
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.AssemblyInfo.cs
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.sourcelink.json
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.csproj.Up2Date
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.dll
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\refint\CURD.DAL.dll
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.pdb
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\CURD.DAL.genruntimeconfig.cache
+C:\Users\eyvaz\OneDrive\Desktop\birseyyy\CloneFromGit\API-Task-28Dec\CURD.DAL\obj\Debug\net8.0\ref\CURD.DAL.dll

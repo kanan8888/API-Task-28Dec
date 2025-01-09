@@ -1,4 +1,5 @@
 ﻿using CURD.Core.Entityes;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CURD.DAL.Context;
-public class CURD_DbContext : DbContext
+public class CURD_DbContext : IdentityDbContext<AppUser>
 {
     public CURD_DbContext(DbContextOptions<CURD_DbContext> options) : base(options){}
 
@@ -24,8 +25,5 @@ public class CURD_DbContext : DbContext
 
         base.OnModelCreating(modelBuilder);
     }
-
-
-
 
 }

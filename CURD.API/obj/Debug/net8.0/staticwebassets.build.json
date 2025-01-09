@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "6BnEoBzzSV21UlhVJ/KMEYnhoyXSyyPYjjKaUxOtt64=",
+  "Hash": "wjtaR7F1/2MRFuJ48zesGSw3HXmMybv+Ws9UDfUHgzg=",
   "Source": "CURD.API",
   "BasePath": "_content/CURD.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

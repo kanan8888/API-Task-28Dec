@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CURD.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35af04fb968e4a926460c2931f9732f22dcd1a19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b84c9664161d17bbd09c8bd330021cf52f85929")]
 [assembly: System.Reflection.AssemblyProductAttribute("CURD.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CURD.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

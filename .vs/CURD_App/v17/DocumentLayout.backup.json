@@ -1,142 +1,138 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\",
+  "WorkspaceRootPath": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\category\\createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\category\\createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\category\\getallcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\category\\getallcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\category\\getcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\category\\getcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\product\\getallproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\product\\getallproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\product\\getproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\product\\getproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\product\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\product\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\tag\\createtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\tag\\createtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\tag\\getalltag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\tag\\getalltag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\tag\\gettag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\tag\\gettag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\dtos\\tag\\updatetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\tag\\updatetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\helper\\exceptions\\common\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\helper\\exceptions\\common\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\configurations\\tagproductconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\tagproductconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\tagconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\context\\curd_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\context\\curd_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.dal\\configurations\\blogcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\blogcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.dal\\migrations\\20241228083418_addbirikitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\migrations\\20241228083418_addbirikitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.dal\\configurations\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.core\\entityes\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\blogcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.core\\entityes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.core\\entityes\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.business\\businesserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\businesserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.core\\entityes\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\services\\implementarions\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\services\\implementarions\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|c:\\users\\i novbe\\source\\repos\\curd_app\\curd.core\\entityes\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97BBEAD2-AAD5-4A29-B234-7366BCCD9DBA}|CURD.Core\\CURD.Core.csproj|solutionrelative:curd.core\\entityes\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\businesserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\businesserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Migrations\\20250108173232_add2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CURD.DAL\\Migrations\\20250108173232_add2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.dal\\configurations\\tagproductconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\tagproductconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Migrations\\20250108172541_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CURD.DAL\\Migrations\\20250108172541_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.dal\\context\\curd_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\context\\curd_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F3FA49-4E9E-46F9-989E-6EB6818B9C64}|CURD.API\\CURD.API.csproj|solutionrelative:curd.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\helper\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\helper\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\helper\\extentions\\fileextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\helper\\extentions\\fileextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\helper\\exceptions\\userexceptions\\userloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\helper\\exceptions\\userexceptions\\userloginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\user\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\helper\\exceptions\\userexceptions\\userregisterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\helper\\exceptions\\userexceptions\\userregisterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\user\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\dtos\\user\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\user\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.business\\dtos\\user\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5085E7-3263-4888-9802-FDC8FE8DAD46}|CURD.Business\\CURD.Business.csproj|solutionrelative:curd.business\\dtos\\user\\forgetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|c:\\users\\eyvaz\\onedrive\\desktop\\birseyyy\\clonefromgit\\api-task-28dec\\curd.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EC97B1-6682-46E3-90A4-E469AFDA5085}|CURD.DAL\\CURD.DAL.csproj|solutionrelative:curd.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,229 +142,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetAllProduct.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Product\\GetAllProduct.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Product\\GetAllProduct.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Product\\GetAllProduct.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Product\\GetAllProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:30:58.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetProduct.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Product\\GetProduct.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Product\\GetProduct.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Product\\GetProduct.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Product\\GetProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:30:48.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateProduct.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Product\\CreateProduct.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Product\\CreateProduct.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Product\\CreateProduct.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Product\\CreateProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:30:18.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetAllCategories.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Category\\GetAllCategories.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Category\\GetAllCategories.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Category\\GetAllCategories.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Category\\GetAllCategories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:29:54.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetCategory.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Category\\GetCategory.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Category\\GetCategory.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Category\\GetCategory.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Category\\GetCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:29:43.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateCategory.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Category\\UpdateCategory.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Category\\UpdateCategory.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Category\\UpdateCategory.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Category\\UpdateCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:29:24.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateCategory.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Category\\CreateCategory.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Category\\CreateCategory.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Category\\CreateCategory.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Category\\CreateCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:29:04.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Services\\CategoryService.cs",
-              "RelativeToolTip": "CURD.Business\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:57:55.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Services\\ProductService.cs",
-              "RelativeToolTip": "CURD.Business\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:57:10.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TagService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Services\\TagService.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\Services\\TagService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Services\\TagService.cs",
-              "RelativeToolTip": "CURD.Business\\Services\\TagService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:57:27.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "CURD.API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "CURD.API\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:54:37.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateProduct.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Product\\UpdateProduct.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Product\\UpdateProduct.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Product\\UpdateProduct.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Product\\UpdateProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:30:28.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateTag.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Tag\\CreateTag.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Tag\\CreateTag.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Tag\\CreateTag.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Tag\\CreateTag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:31:15.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetAllTag.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Tag\\GetAllTag.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Tag\\GetAllTag.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Tag\\GetAllTag.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Tag\\GetAllTag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:31:49.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetTag.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Tag\\GetTag.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Tag\\GetTag.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Tag\\GetTag.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Tag\\GetTag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:31:33.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UpdateTag.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Tag\\UpdateTag.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\Tag\\UpdateTag.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\DTOs\\Tag\\UpdateTag.cs",
-              "RelativeToolTip": "CURD.Business\\DTOs\\Tag\\UpdateTag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:31:26.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "NegativeIdException.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Helper\\Exceptions\\Common\\NegativeIdException.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\Helper\\Exceptions\\Common\\NegativeIdException.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Helper\\Exceptions\\Common\\NegativeIdException.cs",
-              "RelativeToolTip": "CURD.Business\\Helper\\Exceptions\\Common\\NegativeIdException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:26:06.62Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -379,218 +154,419 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "CURD.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "CURD.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:44:01.977Z",
+              "WhenOpened": "2025-01-08T18:30:21.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:27:00.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\BlogCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\BlogCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\BlogCategoryConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\BlogCategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:20:40.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\BlogConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\BlogConfiguration.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\BlogConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\BlogConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:15:03.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\Category.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Category.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\Category.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:04:35.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogCategory.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\BlogCategory.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\BlogCategory.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\BlogCategory.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\BlogCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:44:09.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:40:02.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\Blog.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Blog.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\Blog.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:38:32.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250108173232_add2.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Migrations\\20250108173232_add2.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Migrations\\20250108173232_add2.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Migrations\\20250108173232_add2.cs",
+              "RelativeToolTip": "CURD.DAL\\Migrations\\20250108173232_add2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:32:32.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Program.cs",
+              "RelativeDocumentMoniker": "CURD.API\\Program.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Program.cs",
+              "RelativeToolTip": "CURD.API\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:47:39.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Services\\Implementarions\\UserService.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\Services\\Implementarions\\UserService.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Services\\Implementarions\\UserService.cs",
+              "RelativeToolTip": "CURD.Business\\Services\\Implementarions\\UserService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwFIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:58:24.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\AppUser.cs",
+              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\AppUser.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Core\\Entityes\\AppUser.cs",
+              "RelativeToolTip": "CURD.Core\\Entityes\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:50:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TagProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\TagProductConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\TagProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\TagProductConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\TagProductConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:53:40.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusinesServiceRegisteration.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\BusinesServiceRegisteration.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\BusinesServiceRegisteration.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\BusinesServiceRegisteration.cs",
+              "RelativeToolTip": "CURD.Business\\BusinesServiceRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:56:27.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CURD.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\appsettings.json",
+              "RelativeToolTip": "CURD.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T16:56:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250108172541_add.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Migrations\\20250108172541_add.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Migrations\\20250108172541_add.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Migrations\\20250108172541_add.cs",
+              "RelativeToolTip": "CURD.DAL\\Migrations\\20250108172541_add.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:25:41.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Program.cs",
-              "RelativeDocumentMoniker": "CURD.API\\Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Program.cs",
-              "RelativeToolTip": "CURD.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T07:59:20.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20241228083418_addBirIkiTable.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs",
-              "RelativeDocumentMoniker": "CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs",
-              "RelativeToolTip": "CURD.DAL\\Migrations\\20241228083418_addBirIkiTable.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:34:18.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "CURD_DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Context\\CURD_DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Context\\CURD_DbContext.cs",
               "RelativeDocumentMoniker": "CURD.DAL\\Context\\CURD_DbContext.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Context\\CURD_DbContext.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Context\\CURD_DbContext.cs",
               "RelativeToolTip": "CURD.DAL\\Context\\CURD_DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T07:58:18.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "CURD.DAL\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:11:52.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "CURD.DAL\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:11:12.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TagConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\TagConfiguration.cs",
-              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\TagConfiguration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\TagConfiguration.cs",
-              "RelativeToolTip": "CURD.DAL\\Configurations\\TagConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:11:35.09Z",
+              "WhenOpened": "2025-01-04T10:46:22.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "TagProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\TagProductConfiguration.cs",
-              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\TagProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.DAL\\Configurations\\TagProductConfiguration.cs",
-              "RelativeToolTip": "CURD.DAL\\Configurations\\TagProductConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "CURD.DAL\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:30:49.54Z",
+              "WhenOpened": "2025-01-04T10:53:38.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 19,
               "Title": "TagController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Controllers\\TagController.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Controllers\\TagController.cs",
               "RelativeDocumentMoniker": "CURD.API\\Controllers\\TagController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Controllers\\TagController.cs",
               "RelativeToolTip": "CURD.API\\Controllers\\TagController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:55:19.293Z",
+              "WhenOpened": "2025-01-04T17:57:08.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AutoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
-              "RelativeToolTip": "CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CURD.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CURD.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:02:56.111Z",
+              "WhenOpened": "2025-01-04T17:56:45.961Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BusinesServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\BusinesServiceRegistration.cs",
-              "RelativeDocumentMoniker": "CURD.Business\\BusinesServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Business\\BusinesServiceRegistration.cs",
-              "RelativeToolTip": "CURD.Business\\BusinesServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:58:32.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CURD.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.API\\appsettings.json",
-              "RelativeToolTip": "CURD.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-28T08:34:31.159Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Category.cs",
-              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Category.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Category.cs",
-              "RelativeToolTip": "CURD.Core\\Entityes\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserRegisterException.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Exceptions\\UserExceptions\\UserRegisterException.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\Helper\\Exceptions\\UserExceptions\\UserRegisterException.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Exceptions\\UserExceptions\\UserRegisterException.cs",
+              "RelativeToolTip": "CURD.Business\\Helper\\Exceptions\\UserExceptions\\UserRegisterException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:42:08.272Z"
+              "WhenOpened": "2025-01-04T14:17:03.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CURD.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CURD.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:52:01.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Extentions\\FileExtentions.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\Helper\\Extentions\\FileExtentions.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Extentions\\FileExtentions.cs",
+              "RelativeToolTip": "CURD.Business\\Helper\\Extentions\\FileExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:50:15.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\Helper\\Enums\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "CURD.Business\\Helper\\Enums\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:51:36.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CURD.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CURD.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:57:04.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CURD.Business\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:00:49.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "CURD.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:19:12.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserLoginException.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Exceptions\\UserExceptions\\UserLoginException.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\Helper\\Exceptions\\UserExceptions\\UserLoginException.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\Helper\\Exceptions\\UserExceptions\\UserLoginException.cs",
+              "RelativeToolTip": "CURD.Business\\Helper\\Exceptions\\UserExceptions\\UserLoginException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:11:12.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\DTOs\\User\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\User\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\DTOs\\User\\LoginDTO.cs",
+              "RelativeToolTip": "CURD.Business\\DTOs\\User\\LoginDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:20:28.349Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "TagProduct.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\TagProduct.cs",
-              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\TagProduct.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\TagProduct.cs",
-              "RelativeToolTip": "CURD.Core\\Entityes\\TagProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\DTOs\\User\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\User\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\DTOs\\User\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "CURD.Business\\DTOs\\User\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:25:29.906Z"
+              "WhenOpened": "2025-01-04T11:21:52.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ForgetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\DTOs\\User\\ForgetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\User\\ForgetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\DTOs\\User\\ForgetPasswordDTO.cs",
+              "RelativeToolTip": "CURD.Business\\DTOs\\User\\ForgetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:21:38.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Product.cs",
-              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Product.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Product.cs",
-              "RelativeToolTip": "CURD.Core\\Entityes\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\DTOs\\User\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "CURD.Business\\DTOs\\User\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.Business\\DTOs\\User\\RegisterDTO.cs",
+              "RelativeToolTip": "CURD.Business\\DTOs\\User\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:20:21.718Z"
+              "WhenOpened": "2025-01-04T10:58:36.431Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Tag.cs",
-              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Tag.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Tag.cs",
-              "RelativeToolTip": "CURD.Core\\Entityes\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "CURD.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\OneDrive\\Desktop\\birseyyy\\CloneFromGit\\API-Task-28Dec\\CURD.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "CURD.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:26:56.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "CURD.Core\\Entityes\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\CURD_App\\CURD.Core\\Entityes\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "CURD.Core\\Entityes\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T08:20:35.31Z"
+              "WhenOpened": "2025-01-04T10:56:43.178Z"
             }
           ]
         }

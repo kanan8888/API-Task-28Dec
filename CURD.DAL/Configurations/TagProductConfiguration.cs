@@ -28,5 +28,7 @@ public class TagProductConfiguration : IEntityTypeConfiguration<TagProduct>
             .HasForeignKey(tp => tp.TagId)  
             .OnDelete(DeleteBehavior.Cascade);
 
+        builder.Ignore(x => x.IsDeleted);
+
     }
 }
